@@ -1,6 +1,5 @@
-# Heart-Attack-Project
-This project contains the jupyter notebook and the data used for the Machine Learning Classification problem.                                            
-Data - The Heart Attack csv file which is taken from the Kaggle.com                                                           
-Platform - Python coding in the Jupyter Notebook                                                          
+## Heart Attack Project
+ A project that predicts the heart attack chances by feeding the past data to the Machine Learning Classification Model with the help of jupyter Notebook                   
+## Data
+The Heart Attack csv file which is taken from the Kaggle.com. The data folder contains the heart.csv, o2Saturation.csv files. [Data](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)
 
-The data folder contains the heart.csv , o2Saturation.csv files. The .ipynb file contains the coding part

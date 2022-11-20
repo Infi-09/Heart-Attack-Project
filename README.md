@@ -3,3 +3,5 @@
 ## Data
 The Heart Attack csv file which is taken from the Kaggle.com. The data folder contains the heart.csv, o2Saturation.csv files. [Data](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)
 
+## Usage 
+Run the Haert Attack.ipynb file.
